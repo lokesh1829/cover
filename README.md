@@ -115,6 +115,7 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
+<img width="1034" height="585" alt="Screenshot 2025-12-21 132142" src="https://github.com/user-attachments/assets/1c583493-f866-4497-9d2f-478f461fb594" />
 
 
 ## RESULT:
